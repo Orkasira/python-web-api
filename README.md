@@ -1,1 +1,1 @@
-ამ კოდს მოაქვს ინფორმაცია ბლოგის API-დან და ამ ყველაფერს ინახავს ბაზაში და ასევე ინახავს JSON ფაილში.
+This code fetches information from the blog API and stores it all in the database and also stores it in a JSON file.
